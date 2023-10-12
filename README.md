@@ -1,2 +1,2 @@
-{ "Hello world, i new here in that world, i want learn several code"
+{ "Hello world, i new here world, i want learn several code"
 }
